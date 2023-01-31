@@ -1,5 +1,5 @@
 # Project 1
 
 ##Demonstration Video
-[![Alt text](Demo%20Images/Circuit1.JPG)](https://youtu.be/ZDXQF8Kukd4)
+[![Alt text](Demo%20Images/Circuit1.JPG){width=200px height=200px}](https://youtu.be/ZDXQF8Kukd4)
 
